@@ -1,0 +1,1 @@
+my frist Python - Exceptions
